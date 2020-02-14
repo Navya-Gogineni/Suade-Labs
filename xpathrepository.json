@@ -1,0 +1,26 @@
+{
+"elements":
+{
+"url":"http://angularjs.org/",
+"learn":"//a[contains(text(),'Learn')]",
+"angularName":"//h2[contains(text(),'AngularJS')]",
+"developNames":"DEVELOP",
+"developName":"//a[@class='dropdown-toggle'][contains(text(),'Develop')]",
+"textValue":"//h2[contains(text(),'AngularJS')]",
+"companyName":"Suade Labs",
+"suadeNames":"Hello Suade Labs!",
+"suadeName":"//h1[contains(text(),'Hello Suade Labs!')]",
+"getStarted":"//a[contains(text(),'Get Started')]",
+"angularButton":"//a[contains(text(),'Try the New Angular')]",
+"pageTitle":"//h1[@id='getting-started-with-angular-your-first-app']",
+"search":"//input[@type='search']",
+"angularLibraries":"//span[contains(text(),'Overview of Angular libraries')]",
+"librariesValue":"//h1[@id='overview-of-angular-libraries']",
+"createLibraries":"//a[contains(text(),'Creating Libraries')]",
+"gettingstartedTextValue":"Getting started",
+"angularImage":"//div[@class='hero-logo']//img",
+"pageVerificationTitle":"Getting Started with Angular: Your First App",
+"searchValue":"Libraries"
+}
+
+}
